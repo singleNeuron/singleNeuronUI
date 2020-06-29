@@ -1,0 +1,4 @@
+include ':suspension-fab-1.1.0'
+include ':singleNeuronUI'
+include ':app'
+rootProject.name = "singleNeuronUI"

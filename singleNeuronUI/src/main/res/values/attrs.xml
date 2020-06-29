@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleAlcatrazInteractiveCardView">
+        <attr name="titleLine" format="string" />
+        <attr name="secondLine" format="string" />
+        <attr name="thirdLine" format="string" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="iconDrawable" format="reference" />
+        <attr name="iconDrawableTint" format="color" />
+        <attr name="active" format="boolean" />
+        <attr name="jumpFragmentClass" format="string" />
+    </declare-styleable>
+</resources>

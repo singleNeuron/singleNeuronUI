@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xposed_not_activated">Xposed 未激活</string>
+    <string name="setting">设置</string>
+    <string name="force_night_style">强制使用暗色主题</string>
+    <string name="auto_start_permission">自启动权限</string>
+    <string name="auto_start_permission_summary">如果您在使用国产系统或后台管理软件，请允许本模块自启及被唤醒。</string>
+    <string name="recheck_summary">请在更新后重新勾选模块并重启手机</string>
+    <string name="recheck">更新后Xposed未激活</string>
+    <string name="edxposed_problem">EdXposed 问题反馈注意事项</string>
+    <string name="taichi_problem">如果EdXposed/Xposed等用户报告此模块工作正常但不在您的太极上工作。很大可能是太极的适配引擎又出现了问题/压根就没支持</string>
+    <string name="taichi">太极</string>
+    <string name="troubleshooting">故障排除</string>
+    <string name="special_thanks">特别感谢</string>
+    <string name="special_thanks_summary">本模块用户界面完全厚颜无耻的抄袭了原生音乐通知，感谢此模块的作者dalao\n感谢卖动绘制图标</string>
+    <string name="about">关于</string>
+    <string name="singleNeuron">神经元</string>
+    <string name="author">作者</string>
+    <string name="version">版本</string>
+    <string name="contact_author">联系作者</string>
+    <string name="qq_group">加入QQ群</string>
+    <string name="telegram_channel">Telegram频道/群组</string>
+    <string name="github_address">项目地址</string>
+    <string name="open_source_license">开放源代码许可</string>
+    <string name="OK">确定</string>
+    <string name="cancel">取消</string>
+    <string name="already_copy_to_clipbroad">已复制到剪贴板</string>
+    <string name="clean_all_log">清除所有日志</string>
+    <string name="max_remain">最大保留条数</string>
+    <string name="send_email">发送邮件</string>
+    <string name="xposed_activated">Xposed 已激活</string>
+    <string name="edxposed_not_activated">EdXposed 未激活</string>
+    <string name="edxposed_activated">EdXposed 已激活</string>
+    <string name="taichi_yin_not_activated">太极·阴 未激活</string>
+    <string name="taichi_yin_activated">太极·阴 已激活</string>
+    <string name="taichi_yang_not_activated">太极·阳 未激活</string>
+    <string name="taichi_yang_activated">太极·阳 已激活</string>
+</resources>

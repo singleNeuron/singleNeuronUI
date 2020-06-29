@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.preference.PreferenceCategory
+        app:title="Preference Category" >
+
+        <androidx.preference.Preference
+            app:title="Preference" />
+
+        <androidx.preference.EditTextPreference
+            android:key="addLog"
+            app:title="add log" />
+
+    </androidx.preference.PreferenceCategory>
+
+</androidx.preference.PreferenceScreen>

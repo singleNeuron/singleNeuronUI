@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">singleNeuron UI</string>
+    <string name="xposed_not_activated">Xposed not activated</string>
+    <string name="setting">Setting</string>
+    <string name="force_night_style">Force to use dark style</string>
+    <string name="auto_start_permission">Self-starting permissions</string>
+    <string name="auto_start_permission_summary">If you are using a Chinese ROM or background management software, please allow this software to start and wake up.</string>
+    <string name="recheck_summary">Please reboot your phone after update</string>
+    <string name="recheck">Xposed not activated after update</string>
+    <string name="edxposed_problem">What is EdXposed problem reporting needed</string>
+    <string name="taichi_problem">If users using EdXposed / Xposed, etc. report that this software is working properly but not working on Taichi. It is very likely that there is a problem with Taichi’s adaptation engine</string>
+    <string name="taichi">Taichi</string>
+    <string name="troubleshooting">Troubleshooting</string>
+    <string name="special_thanks">Special thanks</string>
+    <string name="special_thanks_summary">The user interface of the software completely reproduces XposedMusicNotify, thanks to the author of it.\nThanks Lagrio for drawing icons</string>
+    <string name="about">About</string>
+    <string name="singleNeuron">singleNeuron</string>
+    <string name="author">Author</string>
+    <string name="version">Version</string>
+    <string name="contact_author">Contact author</string>
+    <string name="qq_group">QQ group</string>
+    <string name="telegram_channel">Telegram channel / group</string>
+    <string name="github_address">Github</string>
+    <string name="open_source_license">Open source license</string>
+    <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="already_copy_to_clipbroad">Copied to clipboard</string>
+    <string name="clean_all_log">Clear all logs</string>
+    <string name="max_remain">Maximum number of reserved</string>
+    <string name="send_email">Send E-mail</string>
+    <string name="xposed_activated">Xposed activated</string>
+    <string name="edxposed_not_activated">EdXposed not activated</string>
+    <string name="edxposed_activated">EdXposed activated</string>
+    <string name="taichi_yin_not_activated">Taichi·Yin not activated</string>
+    <string name="taichi_yin_activated">Taichi·Yin activated</string>
+    <string name="taichi_yang_not_activated">Taichi·Yang not activated</string>
+    <string name="taichi_yang_activated">Taichi·Yang activated</string>
+    <item name="default_fab_id" type="id" />
+</resources>

@@ -37,4 +37,5 @@
     <string name="taichi_yang_not_activated">Taichi·Yang not activated</string>
     <string name="taichi_yang_activated">Taichi·Yang activated</string>
     <item name="default_fab_id" type="id" />
+    <string name="hook_runnable_class" translatable="false" />
 </resources>
